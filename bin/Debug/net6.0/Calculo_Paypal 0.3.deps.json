@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Calculo_Paypal 0.3/1.0.0": {
+        "runtime": {
+          "Calculo_Paypal 0.3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_Paypal 0.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
